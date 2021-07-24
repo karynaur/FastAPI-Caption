@@ -1,0 +1,11 @@
+uvicorn
+aiofiles
+python-multipart
+jinja2
+git+https://github.com/openai/CLIP.git
+ftfy
+regex
+tqdm
+torch
+pillow
+requests
