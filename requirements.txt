@@ -1,4 +1,5 @@
 uvicorn
+aiohttp
 aiofiles
 python-multipart
 jinja2
